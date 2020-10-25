@@ -1,0 +1,2 @@
+#!/bin/bash
+/bin/sleep 100 && /usr/bin/python3 /home/pi/logger.py
